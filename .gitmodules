@@ -1,0 +1,3 @@
+[submodule "computermusik-pd"]
+	path = computermusik-pd
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/computermusik-pd.git
