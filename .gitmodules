@@ -1,3 +1,6 @@
 [submodule "computermusik-pd"]
 	path = computermusik-pd
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/computermusik-pd.git
+[submodule "Tonmeister"]
+	path = Tonmeister
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/aufnahmeprufungtonmeister.git
