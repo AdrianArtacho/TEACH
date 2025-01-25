@@ -4,3 +4,9 @@
 [submodule "Tonmeister"]
 	path = Tonmeister
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/aufnahmeprufungtonmeister.git
+[submodule "DrumsetLayouts/🥁 Hymn"]
+	path = DrumsetLayouts/🥁 Hymn
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/hymn.git
+[submodule "DrumsetLayouts/🥁 ComeOutAndPlay"]
+	path = DrumsetLayouts/🥁 ComeOutAndPlay
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/comeoutandplay.git
