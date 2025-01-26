@@ -19,3 +19,6 @@
 [submodule "Ensemble/♫ UncommonNoises"]
 	path = Ensemble/♫ UncommonNoises
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/uncommonnoises.git
+[submodule "DrumsetLayouts/🥁 UncommonNoises"]
+	path = DrumsetLayouts/🥁 UncommonNoises
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/nois.git
