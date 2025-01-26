@@ -16,3 +16,6 @@
 [submodule "Ensemble/♫ ComeOutAndPlay"]
 	path = Ensemble/♫ ComeOutAndPlay
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/comeoutandplay.git
+[submodule "Ensemble/♫ UncommonNoises"]
+	path = Ensemble/♫ UncommonNoises
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/uncommonnoises.git
