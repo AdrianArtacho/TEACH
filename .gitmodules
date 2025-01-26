@@ -10,3 +10,9 @@
 [submodule "DrumsetLayouts/🥁 ComeOutAndPlay"]
 	path = DrumsetLayouts/🥁 ComeOutAndPlay
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/comeoutandplay.git
+[submodule "Ensemble/♫ Hymn"]
+	path = Ensemble/♫ Hymn
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/hymntothealgorithm.git
+[submodule "Ensemble/♫ ComeOutAndPlay"]
+	path = Ensemble/♫ ComeOutAndPlay
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/comeoutandplay.git
