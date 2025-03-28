@@ -1,6 +1,3 @@
-[submodule "computermusik-pd"]
-	path = computermusik-pd
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/computermusik-pd.git
 [submodule "Ensemble/♫ Hymn"]
 	path = Ensemble/♫ Hymn
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/hymntothealgorithm.git
