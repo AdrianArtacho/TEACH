@@ -19,3 +19,6 @@
 [submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 Hymn"]
 	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 Hymn
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/hymn.git
+[submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 NOIS"]
+	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 NOIS
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/nois.git
