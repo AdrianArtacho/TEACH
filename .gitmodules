@@ -16,3 +16,6 @@
 [submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP"]
 	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/coap.git
+[submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 Hymn"]
+	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 Hymn
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/hymn.git
