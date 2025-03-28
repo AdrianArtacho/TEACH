@@ -13,3 +13,6 @@
 [submodule "Ensemble/♫ UncommonNoises"]
 	path = Ensemble/♫ UncommonNoises
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/uncommonnoises.git
+[submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP"]
+	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/coap.git
