@@ -25,3 +25,6 @@
 [submodule "Ensemble/♫ AllAboutThatBass"]
 	path = Ensemble/♫ AllAboutThatBass
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/allaboutthatbass.git
+[submodule "Ressources/🕹 StaffHero"]
+	path = Ressources/🕹 StaffHero
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/staffhero.git
