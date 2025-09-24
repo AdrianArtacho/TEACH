@@ -34,3 +34,6 @@
 [submodule "Ressources/🕹GroovePizza"]
 	path = Ressources/🕹GroovePizza
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/groovepizza.git
+[submodule "Ressources/🕹InteractiveExcerpts"]
+	path = Ressources/🕹InteractiveExcerpts
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/interactiveexcerpts.git
