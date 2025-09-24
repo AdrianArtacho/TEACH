@@ -37,3 +37,6 @@
 [submodule "Ressources/InteractiveExcerpts"]
 	path = Ressources/InteractiveExcerpts
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/interactiveexcerpts.git
+[submodule "Ressources/🕹InteractiveExcerpts"]
+	path = Ressources/🕹InteractiveExcerpts
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/interactiveexcerpts.git
