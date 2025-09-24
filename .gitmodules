@@ -31,3 +31,6 @@
 [submodule "ELEMU/♫ AlorsOnDanse"]
 	path = ELEMU/♫ AlorsOnDanse
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/alorsondanse.git
+[submodule "Ressources/🕹GroovePizza"]
+	path = Ressources/🕹GroovePizza
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/groovepizza.git
