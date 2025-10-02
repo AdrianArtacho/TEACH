@@ -30,7 +30,7 @@ url=https://github.com/AdrianArtacho/teach_gehoertest.git
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/staffhero.git
 [submodule "ELEMU/♫ AlorsOnDanse"]
 	path = ELEMU/♫ AlorsOnDanse
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/alorsondanse.git
+url=https://github.com/AdrianArtacho/ms15_alorsondanse
 [submodule "Ressources/🕹GroovePizza"]
 	path = Ressources/🕹GroovePizza
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/groovepizza.git
