@@ -33,7 +33,7 @@ url=https://github.com/AdrianArtacho/teach_gehoertest.git
 url=https://github.com/AdrianArtacho/ms15_alorsondanse
 [submodule "Ressources/🕹GroovePizza"]
 	path = Ressources/🕹GroovePizza
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/groovepizza.git
+url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹InteractiveExcerpts"]
 	path = Ressources/🕹InteractiveExcerpts
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/interactiveexcerpts.git
