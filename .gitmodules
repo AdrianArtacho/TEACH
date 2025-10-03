@@ -9,25 +9,25 @@
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/uncommonnoises.git
 [submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP"]
 	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/coap.git
+url=https://github.com/AdrianArtacho/drumset_COAP
 [submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 Hymn"]
 	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 Hymn
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/hymn.git
+url=https://github.com/AdrianArtacho/drumset_HYMN
 [submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 NOIS"]
 	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 NOIS
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/nois.git
+url=https://github.com/AdrianArtacho/drumset_NOIS
 [submodule "Ressources/Tonmeister-Studium"]
 	path = Ressources/Tonmeister-Studium
 url=https://github.com/AdrianArtacho/teach_gehoertest.git
 [submodule "Ressources/PureData"]
 	path = Ressources/PureData
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/computermusik-pd.git
+url=https://github.com/AdrianArtacho/teach_puredata
 [submodule "Ensemble/♫ AllAboutThatBass"]
 	path = Ensemble/♫ AllAboutThatBass
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/allaboutthatbass.git
 [submodule "Ressources/🕹 StaffHero"]
 	path = Ressources/🕹 StaffHero
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/staffhero.git
+url=https://github.com/AdrianArtacho/teach_staffhero
 [submodule "ELEMU/♫ AlorsOnDanse"]
 	path = ELEMU/♫ AlorsOnDanse
 url=https://github.com/AdrianArtacho/ms15_alorsondanse
