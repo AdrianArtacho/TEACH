@@ -43,3 +43,6 @@ url=https://github.com/AdrianArtacho/teach_excerpts
 [submodule "Ressources/🕹️SoundPuzzle"]
 	path = Ressources/🕹️SoundPuzzle
 	url = https://github.com/AdrianArtacho/teach_soundpuzzle
+[submodule "Units"]
+	path = Units
+	url = https://github.com/AdrianArtacho/teach_ue.git
