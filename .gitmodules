@@ -1,12 +1,12 @@
 [submodule "Ensemble/♫ Hymn"]
 	path = Ensemble/♫ Hymn
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/hymntothealgorithm.git
+url=https://github.com/AdrianArtacho/score_hymn
 [submodule "Ensemble/♫ ComeOutAndPlay"]
 	path = Ensemble/♫ ComeOutAndPlay
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/comeoutandplay.git
+url=https://github.com/AdrianArtacho/score_ComeOutAndPlay
 [submodule "Ensemble/♫ UncommonNoises"]
 	path = Ensemble/♫ UncommonNoises
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/uncommonnoises.git
+url=https://github.com/AdrianArtacho/score_uncommonnoises
 [submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP"]
 	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP
 url=https://github.com/AdrianArtacho/drumset_COAP
@@ -24,7 +24,7 @@ url=https://github.com/AdrianArtacho/teach_gehoertest.git
 url=https://github.com/AdrianArtacho/teach_puredata
 [submodule "Ensemble/♫ AllAboutThatBass"]
 	path = Ensemble/♫ AllAboutThatBass
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/allaboutthatbass.git
+url=https://github.com/AdrianArtacho/score_allaboutthatbass
 [submodule "Ressources/🕹 StaffHero"]
 	path = Ressources/🕹 StaffHero
 url=https://github.com/AdrianArtacho/teach_staffhero
