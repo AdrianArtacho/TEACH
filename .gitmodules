@@ -1,6 +1,3 @@
-[submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 NOIS"]
-	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 NOIS
-url=https://github.com/AdrianArtacho/drumset_NOIS
 [submodule "Ressources/Tonmeister-Studium"]
 	path = Ressources/Tonmeister-Studium
 url=https://github.com/AdrianArtacho/teach_gehoertest.git
