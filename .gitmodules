@@ -1,12 +1,3 @@
-[submodule "Ensemble/♫ Hymn"]
-	path = Ensemble/♫ Hymn
-url=https://github.com/AdrianArtacho/score_hymn
-[submodule "Ensemble/♫ ComeOutAndPlay"]
-	path = Ensemble/♫ ComeOutAndPlay
-url=https://github.com/AdrianArtacho/score_ComeOutAndPlay
-[submodule "Ensemble/♫ UncommonNoises"]
-	path = Ensemble/♫ UncommonNoises
-url=https://github.com/AdrianArtacho/score_uncommonnoises
 [submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP"]
 	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP
 url=https://github.com/AdrianArtacho/drumset_COAP
@@ -22,15 +13,9 @@ url=https://github.com/AdrianArtacho/teach_gehoertest.git
 [submodule "Ressources/PureData"]
 	path = Ressources/PureData
 url=https://github.com/AdrianArtacho/teach_puredata
-[submodule "Ensemble/♫ AllAboutThatBass"]
-	path = Ensemble/♫ AllAboutThatBass
-url=https://github.com/AdrianArtacho/score_allaboutthatbass
 [submodule "Ressources/🕹 StaffHero"]
 	path = Ressources/🕹 StaffHero
 url=https://github.com/AdrianArtacho/teach_staffhero
-[submodule "ELEMU/♫ AlorsOnDanse"]
-	path = ELEMU/♫ AlorsOnDanse
-url=https://github.com/AdrianArtacho/ms15_alorsondanse
 [submodule "Ressources/🕹GroovePizza"]
 	path = Ressources/🕹GroovePizza
 url=https://github.com/AdrianArtacho/teach_GroovePizza
@@ -43,6 +28,3 @@ url=https://github.com/AdrianArtacho/teach_excerpts
 [submodule "Ressources/🕹️SoundPuzzle"]
 	path = Ressources/🕹️SoundPuzzle
 	url = https://github.com/AdrianArtacho/teach_soundpuzzle
-[submodule "Units"]
-	path = Units
-	url = https://github.com/AdrianArtacho/teach_ue.git
