@@ -22,3 +22,6 @@ url=https://github.com/AdrianArtacho/teach_excerpts
 [submodule "Ressources/🕹HearingTests"]
 	path = Ressources/🕹HearingTests
 	url = https://github.com/AdrianArtacho/teach_gehoertest.git
+[submodule "Ressources/🕹Animata"]
+	path = Ressources/🕹Animata
+	url = https://github.com/AdrianArtacho/teach_animata.git
