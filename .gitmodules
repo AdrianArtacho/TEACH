@@ -1,6 +1,3 @@
-[submodule "Ressources/PureData"]
-	path = Ressources/PureData
-url=https://github.com/AdrianArtacho/teach_puredata
 [submodule "Ressources/🕹 StaffHero"]
 	path = Ressources/🕹 StaffHero
 url=https://github.com/AdrianArtacho/teach_staffhero
