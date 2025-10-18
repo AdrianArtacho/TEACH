@@ -22,3 +22,6 @@ url=https://github.com/AdrianArtacho/teach_excerpts
 [submodule "Ressources/🕹Animata"]
 	path = Ressources/🕹Animata
 	url = https://github.com/AdrianArtacho/teach_animata.git
+[submodule "Ressources/💻PureData"]
+	path = Ressources/💻PureData
+	url = https://github.com/AdrianArtacho/teach_puredata.git
