@@ -12,6 +12,7 @@ Dieses Repository enthält Ressourcen für den Computermusikunterricht an den Mu
 | [💻PureData](https://github.com/AdrianArtacho/teach_puredata.git) | These are some patches and ressources to teach PD. | – |
 | [🕹 StaffHero](https://github.com/AdrianArtacho/teach_staffhero) | Awesome—here’s a controllable, StaffWars-style visual you can drive from **Python** or **Max/MSP** via **OSC**. | – |
 | [🕹Animata](https://github.com/AdrianArtacho/teach_animata.git) | 🕹️ Interactive, real-time animation software, designed to create animations, interactive background projections for concerts, theatre and dance performances. | – |
+| [🕹Beatbox](https://github.com/AdrianArtacho/teach_beatbox.git) | Inspired in the sprunki mod of the incredibox | – |
 | [🕹GroovePizza](https://github.com/AdrianArtacho/teach_GroovePizza) | Run GroovePizza locally | – |
 | [🕹HearingTests](https://github.com/AdrianArtacho/teach_gehoertest.git) | A small toolkit to build ear‑training worksheets (`Übungsblatt`) and student versions (`Arbeitsblatt`) from MusicXML templates. It produces four sections: | – |
 | [🕹InteractiveExcerpts](https://github.com/AdrianArtacho/teach_excerpts) | This app displays a piano roll, score (via OSMD), and an interactive keyboard. | – |
