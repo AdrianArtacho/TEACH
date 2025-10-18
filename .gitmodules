@@ -1,6 +1,3 @@
-[submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP"]
-	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 COAP
-url=https://github.com/AdrianArtacho/drumset_COAP
 [submodule "Ressources/MIDI-Drumset/Drumset-Layouts/🥁 Hymn"]
 	path = Ressources/MIDI-Drumset/Drumset-Layouts/🥁 Hymn
 url=https://github.com/AdrianArtacho/drumset_HYMN
