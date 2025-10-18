@@ -28,3 +28,6 @@ url=https://github.com/AdrianArtacho/teach_excerpts
 [submodule "readme-tools"]
 	path = readme-tools
 	url = https://github.com/AdrianArtacho/readme-tools.git
+[submodule "Ressources/🕹Beatbox"]
+	path = Ressources/🕹Beatbox
+	url = https://github.com/AdrianArtacho/teach_beatbox.git
