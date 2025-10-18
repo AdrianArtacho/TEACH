@@ -22,3 +22,6 @@ url=https://github.com/AdrianArtacho/teach_excerpts
 [submodule "Ressources/🕹VirtualDrumset"]
 	path = Ressources/🕹VirtualDrumset
 	url = https://github.com/AdrianArtacho/teach_drumset.git
+[submodule "Ressources/🕹HearingTests"]
+	path = Ressources/🕹HearingTests
+	url = https://github.com/AdrianArtacho/teach_gehoertest.git
