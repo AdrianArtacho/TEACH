@@ -1,6 +1,3 @@
-[submodule "Ressources/Tonmeister-Studium"]
-	path = Ressources/Tonmeister-Studium
-url=https://github.com/AdrianArtacho/teach_gehoertest.git
 [submodule "Ressources/PureData"]
 	path = Ressources/PureData
 url=https://github.com/AdrianArtacho/teach_puredata
