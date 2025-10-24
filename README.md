@@ -74,6 +74,4 @@ A compendium of live-electronic techniques is [here: 🧠 Solo](https://bitbucke
 
 ## To-Do
 
-
-
 * Documentation
