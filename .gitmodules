@@ -31,3 +31,7 @@ url=https://github.com/AdrianArtacho/teach_excerpts
 [submodule "Ressources/🕹Beatbox"]
 	path = Ressources/🕹Beatbox
 	url = https://github.com/AdrianArtacho/teach_beatbox.git
+[submodule "Ressources/🕹️Memory"]
+	path = Ressources/🕹️Memory
+	url = https://github.com/AdrianArtacho/teach_memory.git
+	branch = main
