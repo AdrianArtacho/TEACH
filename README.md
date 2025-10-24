@@ -74,3 +74,5 @@ A compendium of live-electronic techniques is [here: 🧠 Solo](https://bitbucke
 ## To-Do
 
 * Documentation
+* https://aatishb.com/dissonance/
+* https://github.com/aatishb/dissonance
