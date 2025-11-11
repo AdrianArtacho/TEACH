@@ -35,3 +35,6 @@ url=https://github.com/AdrianArtacho/teach_excerpts
 	path = Ressources/🕹️Memory
 	url = https://github.com/AdrianArtacho/teach_memory.git
 	branch = main
+[submodule "Ressources/🕹Numeric"]
+	path = Ressources/🕹Numeric
+	url = https://github.com/AdrianArtacho/teach_numeric.git
