@@ -4,9 +4,6 @@ url=https://github.com/AdrianArtacho/teach_staffhero
 [submodule "Ressources/🕹GroovePizza"]
 	path = Ressources/🕹GroovePizza
 url=https://github.com/AdrianArtacho/teach_GroovePizza
-[submodule "Ressources/🕹InteractiveExcerpts"]
-	path = Ressources/🕹InteractiveExcerpts
-url=https://github.com/AdrianArtacho/teach_excerpts
 [submodule "Ressources/🕹️CircleOfFifths"]
 	path = Ressources/🕹️CircleOfFifths
 	url = https://github.com/AdrianArtacho/teach_circle
