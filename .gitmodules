@@ -35,6 +35,3 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹Numeric"]
 	path = Ressources/🕹Numeric
 	url = https://github.com/AdrianArtacho/teach_numeric.git
-[submodule "Ressources/🕹Interactivee"]
-	path = Ressources/🕹Interactivee
-	url = https://github.com/AdrianArtacho/teach_excerpts.git
