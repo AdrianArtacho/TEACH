@@ -38,3 +38,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Coding/💻PureData"]
 	path = Coding/💻PureData
 	url = https://github.com/AdrianArtacho/teach_puredata.git
+[submodule "Coding/💻UrlDistribute"]
+	path = Coding/💻UrlDistribute
+	url = https://github.com/AdrianArtacho/url_distribute.git
