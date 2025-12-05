@@ -41,3 +41,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Coding/💻UrlDistribute"]
 	path = Coding/💻UrlDistribute
 	url = https://github.com/AdrianArtacho/url_distribute.git
+[submodule "Coding/💻DPI"]
+	path = Coding/💻DPI
+	url = https://github.com/AdrianArtacho/dpi_calculator.git
