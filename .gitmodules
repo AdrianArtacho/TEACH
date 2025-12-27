@@ -50,3 +50,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹diagonal"]
 	path = Ressources/🕹diagonal
 	url = https://github.com/AdrianArtacho/teach_diagonal.git
+[submodule "UE/Einheiten"]
+	path = UE/Einheiten
+	url = https://github.com/AdrianArtacho/teach_ue.git
