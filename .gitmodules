@@ -56,3 +56,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹DrumMachine"]
 	path = Ressources/🕹DrumMachine
 	url = https://github.com/AdrianArtacho/teach_drummachine.git
+[submodule "Coding/💻KeyboardShortcuts"]
+	path = Coding/💻KeyboardShortcuts
+	url = https://github.com/AdrianArtacho/karabiner.git
