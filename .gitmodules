@@ -62,3 +62,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹Stationen"]
 	path = Ressources/🕹Stationen
 	url = https://github.com/AdrianArtacho/teach_Stationen.git
+[submodule "Coding/💻UrlEncode"]
+	path = Coding/💻UrlEncode
+	url = https://github.com/AdrianArtacho/UrlEncode.git
