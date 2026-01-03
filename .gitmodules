@@ -68,3 +68,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹Sidebrain"]
 	path = Ressources/🕹Sidebrain
 	url = https://github.com/AdrianArtacho/sidebrain-app.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/AdrianArtacho/git_tools.git
