@@ -65,3 +65,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Coding/💻UrlEncode"]
 	path = Coding/💻UrlEncode
 	url = https://github.com/AdrianArtacho/UrlEncode.git
+[submodule "Ressources/🕹Sidebrain"]
+	path = Ressources/🕹Sidebrain
+	url = https://github.com/AdrianArtacho/sidebrain-app.git
