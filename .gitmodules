@@ -71,3 +71,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "tools"]
 	path = tools
 	url = https://github.com/AdrianArtacho/git_tools.git
+[submodule "Ressources/🕹SHOWING"]
+	path = Ressources/🕹SHOWING
+	url = https://github.com/AdrianArtacho/SHOWING.git
