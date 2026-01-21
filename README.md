@@ -1,6 +1,73 @@
-# 💻 ♪ Computermusik
+# 🎛️ TEACH
 
-Dieses Repository enthält Ressourcen für den Computermusikunterricht an den Musikschulen Wien.
+**Tools, Materialien & Experimente für [Computermusik](UE/Computermusik.md), künstlerische Praxis und technologievermitteltes Lernen**
+
+Willkommen bei **TEACH** – einem offenen Meta-Repository für Lehrmaterialien, Werkzeuge, Skripte und künstlerisch-pädagogische Experimente rund um **Computermusik, transmediale Performance und zeitgenössische Musikvermittlung**.
+
+Dieses Repository wächst aus meiner täglichen Praxis als Lehrender, Komponist und künstlerischer Forscher – zwischen Musikschule, Universität, Probenraum, Bühne und Code-Editor.
+
+---
+
+## 🌱 Worum es hier geht
+
+**TEACH** ist kein klassisches „Curriculum-Repo“.
+Es ist ein **Arbeitsarchiv lebendiger Praxis**:
+
+* interaktive Lern-Tools
+* browserbasierte Musikexperimente
+* partizipative Scores und QR-basierte Performances
+* Unterrichtsskripte und Workshop-Formate
+* technische Prototypen für künstlerische Forschung
+* Mini-Webapps, CSV-basierte Interfaces, Max/MSP-Devices, Python-Skripte
+
+Alles mit einem gemeinsamen Fokus:
+
+> **Wie können Technologie, Körper, Raum, Stimme und Zeit als künstlerische und pädagogische Werkzeuge erfahrbar werden?**
+
+---
+
+## 🎯 Für wen ist das?
+
+Dieses Repository richtet sich an:
+
+* 🎓 Lehrende für Musik, Medienkunst und Computermusik
+* 🎼 Komponist:innen und Performer:innen im zeitgenössischen und transmedialen Feld
+* 🧑‍💻 Studierende in künstlerisch-forschenden Programmen
+* 🏫 Musikschulen, Hochschulen und Vermittlungsprojekte
+* 🤝 Alle, die mit partizipativer, technologiegestützter Performance arbeiten
+
+---
+
+## 🧭 Pädagogischer Ansatz
+
+Die Materialien folgen keinem linearen Lehrplan, sondern einer **praxisbasierten, explorativen Didaktik**:
+
+* **Lernen durch Tun** statt durch Anleitung
+* **Künstlerische Fragestellungen** statt technischer Tutorials
+* **Offene Systeme** statt geschlossener Tools
+* **Kollektive Erfahrung** statt individueller Übung
+
+Viele Formate sind so gestaltet, dass sie:
+
+* mit Smartphones funktionieren
+* im Browser laufen
+* ohne Installation nutzbar sind
+* in Gruppen und öffentlichen Räumen einsetzbar sind
+
+---
+
+## 🧩 Was du hier findest
+
+Je nach Unterordner und Projekt zum Beispiel:
+
+* 🌐 **Web-Interfaces** für partizipative Performances
+* 📊 **CSV- und QR-basierte Aktionsscores**
+* 🕹️ **Max/MSP & Max for Live Devices**
+* 🐍 **Python-Tools** für Analyse, Segmentierung und Medienverarbeitung
+* 📄 **Unterrichtsmaterialien & Workshop-Konzepte**
+* 🎭 **Performative Prototypen & künstlerische Studien**
+
+Viele Projekte sind bewusst **roh, offen und erweiterbar** – sie verstehen sich als Ausgangspunkt, nicht als fertiges Produkt.
 
 ---
 
@@ -22,57 +89,71 @@ Dieses Repository enthält Ressourcen für den Computermusikunterricht an den Mu
 | [🕹️SoundPuzzle](https://github.com/AdrianArtacho/teach_soundpuzzle) | This is a MaxForLive device to use for 'SongPuzzle'. Inspired by the 'Kakerlackenorgel'. | <img src="https://raw.githubusercontent.com/AdrianArtacho/teach_soundpuzzle/HEAD/img/gui.png" width="140" alt="🕹️SoundPuzzle GUI"> |
 <!-- END: SUBMODULE_TABLE -->
 
----
-
-## Resources
-
-A compendium of live-electronic techniques is [here: 🧠 Solo](https://bitbucket.org/artachoscores/solo).
 
 ---
 
-## Themen
+## 🛠️ Struktur
 
-### Grundlagen
+Dieses Repository ist als **Meta-Repo** organisiert und enthält:
 
-- Installation einer Digital Audio Workstation (DAW) auf dem Computer
-- Aufnahme und Abspielparameter
-- Elektroakustische Musik: Wellenformen, ADSR-Hüllkurven, Lautstärke (dB)
-- Funktionsweise eines Synthesizers
+* eigenständige Projektordner
+* Submodule
+* externe Repositories
+* experimentelle Tools
+* Dokumentationen und Skizzen
 
----
+Jedes Unterprojekt hat (wenn möglich) ein eigenes README mit:
 
-### Klangerzeugung, Klangbearbeitung
-
-- Klänge assoziativ deuten lernen und kategorisieren
-- Klangtransformations-Experimente ausführen
-- VST Effects und VST Instruments
-- Filterungen als Klangveränderungs-Möglichkeiten
-- Eigene Klangumgebung schaffen, Klangumgebungen erforschen
-- Klangcollagen erzeugen
+* Zweck
+* Setup
+* didaktischem Kontext
+* Einsatzszenarien
 
 ---
 
-### Musikproduktion
+## 🔓 Offenheit & Weiterverwendung
 
-- Mit dem Drum-Computer eine rhythmische Struktur erzeugen
-- Mit dem Synthesizer eine Bassline erzeugen
-- Leadstimme schreiben und texten
-- Filme mit Klangsamples vertonen
-- Musikblogs nutzen lernen, neue Musikstile kennenlernen
-- Den eigenen Stil finden
+Alles hier ist gedacht als:
 
----
+> **Material zum Teilen, Anpassen, Remixen und Weiterdenken.**
 
-### Computer als Instrument anwenden
+Wenn du etwas im Unterricht, in Workshops oder in künstlerischen Projekten verwendest, freue ich mich über:
 
-- Mit dem Computer und anderen Instrumenten zusammenspielen
-- Möglichkeiten der Interaktion mit dem Computer: Midi-Geräte, Handy
-- Interaktive und generative Software anwenden (Pure Data)
+* Hinweise
+* Feedback
+* Pull Requests
+* oder einfach eine kurze Nachricht
 
 ---
 
-## To-Do
+## 👤 Über mich
 
-* Documentation
-* https://aatishb.com/dissonance/
-* https://github.com/aatishb/dissonance
+[**Adrián Artacho MA**](https://www.artacho.at/teaching/)
+Komponist, Lehrender und künstlerischer Forscher
+
+Ich unterrichte **Computermusik an den Musikschulen Wien** und lehre im **Transmedia Performance Profil** des Masterstudiums *Contemporary Arts Practice* an der Universität für Musik und darstellende Kunst Wien (mdw), mit den Schwerpunkten:
+
+* *Speech & Sound*
+* *Body and Movement in Music Practice*
+* *Time & Space*
+
+Meine Arbeit bewegt sich zwischen Komposition, Performance, Technologie und künstlerischer Forschung – mit besonderem Interesse an **partizipativen Formaten, verteilten Performances und zeitbasierten Systemen**.
+
+---
+
+## 🤝 Mitmachen
+
+Wenn du:
+
+* Materialien beitragen möchtest
+* ein Projekt weiterentwickelst
+* oder dieses Repository in deiner Lehre nutzt
+
+→ Forke das Repo oder melde dich gerne direkt.
+
+---
+
+## ✨ Leitgedanke
+
+> **Technologie ist hier kein Selbstzweck.
+> Sie ist ein Mittel, um Wahrnehmung, Handlung, Raum und musikalische Zeit neu erfahrbar zu machen.**
