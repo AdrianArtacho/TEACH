@@ -76,8 +76,6 @@ Viele Projekte sind bewusst **roh, offen und erweiterbar** – sie verstehen sic
 <!-- BEGIN: SUBMODULE_TABLE -->
 | Name | Description | Preview |
 | --- | --- | :---: |
-| [Einheiten](https://github.com/AdrianArtacho/teach_ue.git) | Unterrichtseinheiten | – |
-| [tools](https://github.com/AdrianArtacho/git_tools.git) | This repository provides a small collection of **Bash utilities** to make working with **Git submodules** and **commit hooks** more efficient and less repetitive. | – |
 | [💻DPI](https://github.com/AdrianArtacho/dpi_calculator.git) | --- | – |
 | [💻KeyboardShortcuts](https://github.com/AdrianArtacho/karabiner.git) | This repository contains a **Karabiner-Elements complex modification** that adds an **additional keyboard shortcut** for an existing Ableton Live command. | – |
 | [💻PureData](https://github.com/AdrianArtacho/teach_puredata.git) | These are some patches and ressources to teach PD. | – |
