@@ -77,3 +77,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹VotingResults"]
 	path = Ressources/🕹VotingResults
 	url = https://github.com/AdrianArtacho/voting_results.git
+[submodule "Ressources/🕹ListQuiz"]
+	path = Ressources/🕹ListQuiz
+	url = https://github.com/AdrianArtacho/teach_ListQuiz.git
