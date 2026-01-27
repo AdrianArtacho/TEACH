@@ -80,3 +80,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹ListQuiz"]
 	path = Ressources/🕹ListQuiz
 	url = https://github.com/AdrianArtacho/teach_ListQuiz.git
+[submodule "DECK"]
+	path = DECK
+	url = https://github.com/AdrianArtacho/teach_deck.git
