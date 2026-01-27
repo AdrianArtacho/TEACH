@@ -1,6 +1,8 @@
-# 🎛️ TEACH
+# 🎛️ PRISM
 
-**Tools, Materialien & Experimente für [Computermusik](UE/Computermusik.md), künstlerische Praxis und technologievermitteltes Lernen**
+**P**edagogical **R**esearch in **I**nteractive **S**ystems & **M**usic
+
+(Tools, Materialien & Experimente für [Computermusik](UE/Computermusik.md), künstlerische Praxis und technologievermitteltes Lernen)
 
 Willkommen bei **TEACH** – einem offenen Meta-Repository für Lehrmaterialien, Werkzeuge, Skripte und künstlerisch-pädagogische Experimente rund um **Computermusik, transmediale Performance und zeitgenössische Musikvermittlung**.
 
