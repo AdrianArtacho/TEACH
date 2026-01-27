@@ -83,6 +83,3 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "DECK"]
 	path = DECK
 	url = https://github.com/AdrianArtacho/teach_deck.git
-[submodule "Analyseseminar"]
-	path = Analyseseminar
-	url = https://github.com/AdrianArtacho/Analyseseminar.git
