@@ -1,4 +1,4 @@
-# 🎛️ PRISM
+# 〰️⃤🏳️‍🌈 PRISM
 
 **P**edagogical **R**esearch in **I**nteractive **S**ystems & **M**usic
 
