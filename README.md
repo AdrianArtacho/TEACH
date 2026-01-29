@@ -4,7 +4,7 @@
 
 (Tools, Materialien & Experimente für [Computermusik](UE/Computermusik.md), künstlerische Praxis und technologievermitteltes Lernen)
 
-Willkommen bei **TEACH** – einem offenen Meta-Repository für Lehrmaterialien, Werkzeuge, Skripte und künstlerisch-pädagogische Experimente rund um **Computermusik, transmediale Performance und zeitgenössische Musikvermittlung**.
+Willkommen bei **PRISM** – einem offenen Meta-Repository für Lehrmaterialien, Werkzeuge, Skripte und künstlerisch-pädagogische Experimente rund um **Computermusik, transmediale Performance und zeitgenössische Musikvermittlung**.
 
 Dieses Repository wächst aus meiner täglichen Praxis als Lehrender, Komponist und künstlerischer Forscher – zwischen Musikschule, Universität, Probenraum, Bühne und Code-Editor.
 
@@ -12,7 +12,7 @@ Dieses Repository wächst aus meiner täglichen Praxis als Lehrender, Komponist 
 
 ## 🌱 Worum es hier geht
 
-**TEACH** ist kein klassisches „Curriculum-Repo“.
+**PRISM** ist kein klassisches „Curriculum-Repo“.
 Es ist ein **Arbeitsarchiv lebendiger Praxis**:
 
 * interaktive Lern-Tools
