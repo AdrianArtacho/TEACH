@@ -86,3 +86,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "UE/Analyseseminar"]
 	path = UE/Analyseseminar
 	url = https://github.com/AdrianArtacho/Analyseseminar.git
+[submodule "Ressources/🕹Visualise"]
+	path = Ressources/🕹Visualise
+	url = https://github.com/AdrianArtacho/Visualise.git
